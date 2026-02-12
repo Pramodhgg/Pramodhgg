@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Pramod
+👋 Hi, I'm Pramod
 
-- Full Stack Developer | React.js • Next.js • Java • Spring Boot
-- Building scalable applications using microservices architecture
-- Strong focus on frontend engineering & performance
-- Exploring advanced backend architecture and system design
-- Open to collaboration and impactful projects
-- 📫 pramod.hg2347@gmail.com
+Senior React Developer | Frontend Engineer  
+Building scalable and high-performance web applications  
+Strong focus on UI architecture, performance & reusable components  
+Working knowledge of backend APIs & Spring Boot  
+Open to collaboration and impactful projects  
+📫 pramod.hg2347@gmail.com
